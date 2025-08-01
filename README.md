@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph "User's Device (Client)"
         A[User Browser/App]
@@ -43,3 +44,4 @@ graph TD
 
     style H fill:#f9f,stroke:#333,stroke-width:2px
     style F fill:#ccf,stroke:#333,stroke-width:2px
+```
